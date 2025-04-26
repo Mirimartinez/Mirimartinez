@@ -23,7 +23,7 @@
 ###
 
 
-<p align="left"><br>- 🔭 I’m working as a web developer<br>- 📚 I'm currently learning Symfony<br>- ⚡ In my free time I like to go out and get some fresh air, I may be having a picnic, rollerskating or just lying on the grass</p>
+<p align="left"><br>- 🔭 I’m working as a web developer ⚡ In my free time I like to go out and get some fresh air, I may be having a picnic, rollerskating or just lying on the grass</p>
 
 ###
 
